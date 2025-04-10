@@ -1,4 +1,6 @@
-SQL Analysis Summary
+# SQL-for-Data-Analysis
+Task 3: SQL for Data Analysis
+
 - Loaded and structured customer data into a MySQL database.
 
 - Performed data exploration and behavioral analysis using SQL.
